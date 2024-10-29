@@ -1,8 +1,0 @@
-name: Stephen Subra
-tagline: Things I like to share
-pagination: 10
-menu:
-  - ["about", "about.html"]
-  - ["pages", "pages.html"]
-  - ["tags", "tags.html"]
-  - ["archive", "archive.html"]
